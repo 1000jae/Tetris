@@ -1,6 +1,6 @@
 # Tetris
 
-Final Project for CSC258 at UofT, 2024. Thus, code not publicly available. <br\>
+Final Project for CSC258 at UofT, 2024. Thus, code not publicly available. <\br>
 Click the below image to see a demo of the project. 
 
 
